@@ -6,4 +6,4 @@ toolkit for angular, typescript and javascript
 
 | Name                                   | Description                        |
 | -------------------------------------- | ---------------------------------- |
-| [@ht14x/keyss](./libs/keyss/README.md) | Utility for filtering pressed keys |
+| [@ht14x/keyss](./libs/keyss/) | Utility for filtering pressed keys |
