@@ -1,4 +1,4 @@
-## @ht14x/keyss
+## @ht14x/keyss [![npm-publish](https://github.com/HT14X/ng-tools/actions/workflows/main.yml/badge.svg)](https://github.com/HT14X/ng-tools/actions/workflows/main.yml) [![npm version](https://badge.fury.io/js/%40ht14x%2Fkeyss.svg)](https://badge.fury.io/js/%40ht14x%2Fkeyss)
 
 Utility for filtering pressed keyss
 
