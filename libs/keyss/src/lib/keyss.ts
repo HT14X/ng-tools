@@ -20,6 +20,13 @@ export class Keyss {
             keyMap[key] = hotKeysPressed.indexOf(key) > -1 ? true : false;
         }
         const notMatchedToken = Object.keys(keyMap).find((key: string) => {
+            if (event[key] === undefined) {
+                if (keyMap[key]) {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
             return (event as { [key: string]: any })[key] !== keyMap[key];
         });
         if (!notMatchedToken) {
