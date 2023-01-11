@@ -1,6 +1,6 @@
 {
     "name": "@ht14x/keyss",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Utility for filtering pressed keys",
     "author": "Hajek Jiri <hajekj14@gmail.com>",
     "license": "MIT",
